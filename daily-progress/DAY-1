@@ -1,8 +1,12 @@
 ## Day 1
-- Learnt Linux basics
-- Practised Java fundamentals
-- Learnt Prefix Sum (DSA)
-- Solved 1 LeetCode problem
+- learnt Linux basics: (Types of linus distribution system, basic Linux terminologies,
+  how does the system turns on(from switch on till Desktop comes in picture).
+- learnt Java: Functions/Methods(Basic Functions,Return Types,Pass by Refrence,Scope)
+- Started with Basic DSA on LeetCode Quest solved 3 easy problems:
+     1. Concatenation
+     2. Shuffling
+     3. Maximum Element
+  (Basic Operations Performed on Array)
 
 Status: ✅ Completed
 
